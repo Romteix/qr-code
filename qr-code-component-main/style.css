@@ -55,6 +55,7 @@ body {
 .card > h2 {
   font-weight: var(--font-weight-bold);
   margin: 20px;
+  color: var(--slate900);
 }
 
 .card > p {
