@@ -1,1 +1,1 @@
-QR code component pge from Frontend Mentor
+QR code component page from Frontend Mentor
